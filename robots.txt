@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://playful-narwhal-ce7021.netlify.app/sitemap.xml
